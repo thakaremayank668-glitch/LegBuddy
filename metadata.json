@@ -1,0 +1,6 @@
+{
+  "name": "LegBuddy — AI Indian Legal & Government Assistant",
+  "description": "India's premier AI legal and government procedural assistant powered by RAG and verified official sources. Simplifying laws, business registrations, licenses, compliance, and legal document analysis in English, Hindi, and Gujarati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
